@@ -30,6 +30,7 @@ Awesome products that have significant annual revenue of 7-figures or close, and
 - [SendPulse](https://sendpulse.com/) - email + messenger marketing ($2.5M ARR)
 - [YouCanBookMe](https://youcanbook.me/) - meeting scheduling ($2M ARR)
 - [Zoho](https://www.zoho.com/) - Cloud/SaaS software suite ($500M ARR)
+- [Todoist](https://todoist.com) - Productivity/Remote teams tools ($18M ARR)
 
 Sources: founder interviews, Indiehackers, podcasts, folks I know personally from conferences etc.
 
